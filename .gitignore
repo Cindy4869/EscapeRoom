@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.sln
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio / Rider
+.vs/
+.idea/
+
+# Unity generated meta files for builds
+*.apk
+*.aab
+
+# Crash reports
+sysinfo.txt
